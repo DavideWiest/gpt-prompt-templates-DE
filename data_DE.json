@@ -1,0 +1,14 @@
+{
+"prompts":[
+"EmailAntwortNegativ",
+"EmailAntwortPositiv",
+"IdeenGenerieren",
+"GliederungGenerieren",
+"AbsatzGenerieren",
+"TagsGenerieren",
+"TitelGenerieren",
+"Umschreiben",
+"Vereinfachen",
+"Zusammenfassen"
+]
+}
