@@ -8,7 +8,7 @@ PromptInfo:
  version: 0.0.1
 ---
 prompt:
-reply to this email positively in professional way. 
+Verfasse eine professionelle Email mit positiver Antwort.
 email: 
 {{context}}
 reply: 
