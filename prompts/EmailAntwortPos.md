@@ -1,8 +1,8 @@
 ---
 PromptInfo:
- promptId: getEmailPos
- name: ✉️ Reply to Email positively 😄
- description: select the email and a positive reply will be generated
+ promptId: EmailAntwortPos
+ name: ✉️ Beantworte die Email positiv 😄
+ description: Wähle den E-Mail-Inhalt aus, und es wird eine positive Antwort generiert.
  author: Noureddine
  tags: communication, email
  version: 0.0.1
