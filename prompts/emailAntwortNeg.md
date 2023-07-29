@@ -1,6 +1,6 @@
 ---
 PromptInfo:
- promptId: EmailAntwortNeg
+ promptId: emailAntwortNeg
  name: ✉️ Schreibe eine negative Antwort. 😡
  description: Wähle den E-Mail-Inhalt aus, und es wird eine negative Antwort generiert.
  author: Noureddine
