@@ -1,6 +1,6 @@
 ---
 PromptInfo:
- promptId: GliederungGenerieren
+ promptId: gliederungGenerieren
  name: 🗒️Generieren einer Gliederung
  description: Wähle einen Titel, und eine Gliederung wird generiert.
  required_values: title
