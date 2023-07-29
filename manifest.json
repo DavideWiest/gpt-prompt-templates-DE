@@ -1,11 +1,11 @@
 {
-    "packageId": "default",
-    "name": "Default Prompts Package",
-    "version": "0.0.7",
-	"minTextGeneratorVersion": "0.1.0",
-	"description": "This is the main package that comes with Text Generator plugin in Obsidian",
-    "author": "Noureddine Haouari",
-    "tags" : "writing, brainstorming",
-	"authorUrl": "https://www.buymeacoffee.com/haouarine",
-    "repo":"text-gen/gpt-3-prompt-templates"
+"packageId": "standard_DE",
+"name": "Standard Prompt-Paket Deutsch",
+"version": "0.0.7",
+"minTextGeneratorVersion": "0.1.0",
+"description": "DE: Das ist die Deutsche Übersetzung des Standard-Pakets vom Obsidian-Plugins Text Generator. EN: This is the German translation of the Standard Prompts Package from the Obsidian plugin Text Generator.",
+"author": "Noureddine Haouari, translated by Davide Wiest",
+"tags" : "writing, schreiben, brainstorming",
+"authorUrl": "https://www.github.com/DavideWiest",
+"repo":"text-gen/gpt-prompt-templates-DE"
 }
