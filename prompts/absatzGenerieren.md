@@ -1,6 +1,6 @@
 ---
 PromptInfo:
- promptId: AbsatzGenerieren
+ promptId: absatzGenerieren
  name: ✍️ Absatz schreiben lassen
  description: Wähle einen Titel/das Thema, und eine Absatz wird dazu generiert.
  required_values: title, outline
